@@ -1,0 +1,14 @@
+postgres_data
+chroma_data
+minio_data
+tests/
+.venv
+
+*.py[cod]
+*.pyo
+
+.env
+local_model/
+llama_models
+docker-compose.marquez.yml
+Demo - Recording.mp4

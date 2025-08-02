@@ -1,0 +1,15 @@
+boto3
+requests
+beautifulsoup4
+html2text
+apache-airflow-providers-apache-spark
+feedparser 
+deltalake 
+faiss-cpu 
+pandas 
+sentence-transformers
+chromadb
+delta-spark
+langchain
+duckdb
+pyarrow

@@ -1,0 +1,6 @@
+faiss-cpu 
+pandas 
+sentence-transformers
+chromadb
+langchain
+fastapi
